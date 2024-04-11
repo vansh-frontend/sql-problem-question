@@ -41,32 +41,32 @@ INSERT INTO EMPLOYEES (
   AGE
 ) VALUES (
   1,
-  'John',
+  'vansh',
   30
 ),
 (
   2,
-  'Alice',
+  'navraj',
   25
 ),
 (
   3,
-  'Bob',
+  'harish',
   35
 ),
 (
   4,
-  'Carol',
+  'madhav',
   40
 ),
 (
   5,
-  'David',
+  'jishanu',
   28
 ),
 (
   6,
-  'Emma',
+  'komal',
   32
 );
 

@@ -108,6 +108,5 @@ FROM
 WHERE
   MARKS = 75;
 
->>>>>>> 78fcaf3c146b1c135acdf39c4d73929a1a7c31fc
 
 -- outpit is vansh and navraj
